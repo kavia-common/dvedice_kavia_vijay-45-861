@@ -62,3 +62,4 @@ core.*
 *.log
 post_process_status.lock
 core
+.knowledge.kavia
